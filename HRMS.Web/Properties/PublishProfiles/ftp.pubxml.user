@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAANa9eeff4a0KxNORtfa45VAAAAAACAAAAAAAQZgAAAAEAACAAAAAjdCW0V+qrk4mASJrdum7tA0SNxP6164t5Mkr5H265TQAAAAAOgAAAAAIAACAAAACRKI1XMugxY2JlKgs89V8uEf6+n9t6LyGZsoG3ndp6uiAAAAClWkvfx3JRdESreaWa10z/MoXvo1tNAQq13x3a7Bl/DkAAAAAoqKG4kzmeoqLmrJAkSUxhWZaZkQfJb71O0AmgHqAvZ15iYpAzFBQf6O1g/QokRacKck2nPoegm22aK3eapFld</EncryptedPassword>
+    <_PublishTargetUrl>ftp://www.bpwen.cn/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="admin/Cache/List.aspx">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/comment/eval.ashx">
+      <publishTime>05/02/2018 01:02:09</publishTime>
+    </File>
+    <File Include="admin/comment/list.aspx">
+      <publishTime>05/22/2018 11:52:37</publishTime>
+    </File>
+    <File Include="admin/Content/Addto.aspx">
+      <publishTime>08/25/2017 21:01:18</publishTime>
+    </File>
+    <File Include="admin/Content/aindex.aspx">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/Content/Columnselection.aspx">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/Content/Css/Addto.css">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/Content/Css/Columnselection.css">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/Content/Css/List.css">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/Content/eval.ashx">
+      <publishTime>10/30/2017 09:38:03</publishTime>
+    </File>
+    <File Include="admin/Content/images/p1.gif">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/Content/images/p2.gif">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/Content/images/p3.gif">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/Content/images/p4.gif">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/Content/Javascript/Addto.js">
+      <publishTime>09/30/2017 14:25:14</publishTime>
+    </File>
+    <File Include="admin/Content/Javascript/Columnselection.js">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/Content/Javascript/List.js">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/Content/Javascript/Remoteimgsave.js">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/Content/list.aspx">
+      <publishTime>05/02/2018 01:02:09</publishTime>
+    </File>
+    <File Include="admin/Content/List1.aspx">
+      <publishTime>10/30/2017 09:38:03</publishTime>
+    </File>
+    <File Include="admin/Content/Remoteimgsave.aspx">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/basis.css">
+      <publishTime>05/17/2018 16:57:54</publishTime>
+    </File>
+    <File Include="admin/css/index.css">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Index_Coure.css">
+      <publishTime>03/01/2018 17:16:46</publishTime>
+    </File>
+    <File Include="admin/css/login.css">
+      <publishTime>10/30/2017 09:46:05</publishTime>
+    </File>
+    <File Include="admin/css/Template/Style.css">
+      <publishTime>11/02/2017 10:04:05</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/css/font-awesome.css">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/css/font-awesome.min.css">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/Font Awesome，一套绝佳的图标字体库和CSS框架.png">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/fonts/fontawesome-webfont.eot">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/fonts/fontawesome-webfont.svg">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/fonts/fontawesome-webfont.ttf">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/fonts/fontawesome-webfont.woff">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/fonts/fontawesome-webfont.woff2">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/fonts/FontAwesome.otf">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/less/animated.less">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/less/bordered-pulled.less">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/less/core.less">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/less/fixed-width.less">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/less/font-awesome.less">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/less/icons.less">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/less/larger.less">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/less/list.less">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/less/mixins.less">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/less/path.less">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/less/rotated-flipped.less">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/less/stacked.less">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/less/variables.less">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/scss/font-awesome.scss">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/scss/_animated.scss">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/scss/_bordered-pulled.scss">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/scss/_core.scss">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/scss/_fixed-width.scss">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/scss/_icons.scss">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/scss/_larger.scss">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/scss/_list.scss">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/scss/_mixins.scss">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/scss/_path.scss">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/scss/_rotated-flipped.scss">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/scss/_stacked.scss">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/scss/_variables.scss">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/css/Typeface/font-awesome-4.3.0/新建文本文档.txt">
+      <publishTime>08/07/2017 00:20:03</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/custom.js">
+      <publishTime>09/30/2017 14:25:14</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/anchor/anchor.html">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/attachment.css">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/attachment.html">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/attachment.js">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/fileTypeImages/icon_chm.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/fileTypeImages/icon_default.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/fileTypeImages/icon_doc.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/fileTypeImages/icon_exe.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/fileTypeImages/icon_jpg.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/fileTypeImages/icon_mp3.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/fileTypeImages/icon_mv.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/fileTypeImages/icon_pdf.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/fileTypeImages/icon_ppt.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/fileTypeImages/icon_psd.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/fileTypeImages/icon_rar.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/fileTypeImages/icon_txt.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/fileTypeImages/icon_xls.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/images/alignicon.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/images/alignicon.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/images/bg.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/images/file-icons.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/images/file-icons.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/images/icons.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/images/icons.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/images/image.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/images/progress.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/images/success.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/attachment/images/success.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/background/background.css">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/background/background.html">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/background/background.js">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/background/images/bg.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/background/images/success.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/charts/chart.config.js">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/charts/charts.css">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/charts/charts.html">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/charts/charts.js">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/charts/images/charts0.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/charts/images/charts1.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/charts/images/charts2.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/charts/images/charts3.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/charts/images/charts4.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/charts/images/charts5.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/emotion/emotion.css">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/emotion/emotion.html">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/emotion/emotion.js">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/emotion/images/0.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/emotion/images/bface.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/emotion/images/cface.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/emotion/images/fface.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/emotion/images/jxface2.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/emotion/images/neweditor-tab-bg.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/emotion/images/tface.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/emotion/images/wface.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/emotion/images/yface.gif">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/gmap/gmap.html">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/help/help.css">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/help/help.html">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/help/help.js">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/image/image.css">
+      <publishTime>08/31/2017 14:38:08</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/image/image.html">
+      <publishTime>09/07/2017 06:41:32</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/image/image.js">
+      <publishTime>09/07/2017 04:18:37</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/image/images/alignicon.jpg">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/image/images/bg.png">
+      <publishTime>08/10/2016 11:05:24</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/dialogs/internal.js">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/index.html">
+      <publishTime>08/25/2017 22:10:07</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/ueditor.all.js">
+      <publishTime>05/22/2018 13:18:12</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/ueditor.all.min.js">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/ueditor.config.js">
+      <publishTime>02/02/2018 19:35:39</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/ueditor.parse.js">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/Editor/baidu/utf8-net/ueditor.parse.min.js">
+      <publishTime>08/10/2016 11:05:26</publishTime>
+    </File>
+    <File Include="admin/eval.ashx">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/Hrms_Bottom.aspx">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/Hrms_Coure.aspx">
+      <publishTime>08/07/2017 00:19:42</publishTime>
+    </File>
+    <File Include="admin/Hrms_Left.aspx">
+      <publishTime>08/07/2017 00:20:04</publishTime>
+    </File>
+    <File Include="admin/Hrms_Top.aspx">
+      <publishTime>10/30/2017 09:38:03</publishTime>
+    </File>
+    <File Include="admin/index.aspx">
+      <publishTime>05/02/2018 01:02:08</publishTime>
+    </File>
+    <File Include="admin/index.html">
+      <publishTime>08/07/2017 00:20:05</publishTime>
+    </File>
+    <File Include="admin/login.aspx">
+      <publishTime>10/30/2017 09:45:05</publishTime>
+    </File>
+    <File Include="admin/Web.config">
+      <publishTime>08/07/2017 00:20:01</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/07/2017 00:20:05</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>08/07/2017 00:19:38</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/24/2018 17:32:55</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
